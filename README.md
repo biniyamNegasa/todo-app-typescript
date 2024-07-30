@@ -2,7 +2,7 @@
 
 A console based todo app that can add and delete todos.
 
-## To run the page, follow the following the instructions
+## To run the page, follow the following instructions
 1. Clone the repo
 - ```git clone https://www.github.com/biniyamNegasa/todo-app-typescript``` 
 2.  Goto the folder
