@@ -11,3 +11,7 @@ A console based todo app that can add and delete todos.
 * ``` tsc ```
 4. Run the javascript
 * ``` node ./dist/todo.js ```
+
+## Here's a screenshot
+
+![screenshot](./images/image.png)
